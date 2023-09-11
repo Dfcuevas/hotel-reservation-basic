@@ -4,31 +4,31 @@
       "name": "Hotel Montaña Magica",
       "description": "Un espectacular hotel en medio de las montañas",
       "id": 1,
-      "img": "/img/hotel1.jpeg"
+      "img": "/img/hotel1.jpg"
     },
     {
       "name": "Hotel Cielo Azul",
       "description": "Un hotel boutique situado en la costa",
       "id": 2,
-      "img": "/img/hotel2.jpeg"
+      "img": "/img/hotel2.jpg"
     },
     {
       "name": "Hotel Villa Romantica",
       "description": "Una villa pintoresca ideal para parejas que buscan una experiencia romantica",
       "id": 3,
-      "img": "/img/hotel3.jpeg"
+      "img": "/img/hotel3.jpg"
     },
     {
       "name": "Hotel Aventura Urbana",
       "description": "Un Hotel moderno en el corazon de la ciudad",
       "id": 4,
-      "img": "/img/hotel4.jpeg"
+      "img": "/img/hotel4.jpg"
     },
     {
       "name": "Hotel GHL",
       "description": "Un espectacular hotel ubicado en el centro comercial Alcaravan, con una impresionante piscina, restaurante y un ambiente moderno y elegante",
       "id": 5,
-      "img": "/img/hotel5.jpeg"
+      "img": "/img/hotel5.jpg"
     }
   ]
 }
